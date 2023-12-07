@@ -3,7 +3,7 @@
 # AWS 
 
 ## What is cloud computing
-- cloud computing is the delivery of computing services including servers,storage,databases,networking,software etc.
+- cloud computing is the delivery of computing services including servers,storage,databases,networking,software etc
 ## benfits 
 - faster time to market
 - scalability and flexibility
