@@ -1,5 +1,3 @@
-# aws-1-
-
 # AWS 
 
 ## What is cloud computing
